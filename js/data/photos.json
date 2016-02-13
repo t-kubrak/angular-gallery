@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Rocky mountain",
+    "author": "Samuel Zeller",
+    "url": "img/1.jpg"
+  },
+  {
+    "title": "Sunrise",
+    "author": "Jordan McQueen",
+    "url": "img/2.jpg"
+  },
+  {
+    "title": "Yosemite",
+    "author": "Adam Kool",
+    "url": "img/3.jpg"
+  },
+  {
+    "title": "Peyto Lake, Canada",
+    "author": "Sergei Akulich",
+    "url": "img/4.jpg"
+  },
+  {
+    "title": "Green mountains",
+    "author": "Ales Krivec",
+    "url": "img/5.jpg"
+  },
+  {
+    "title": "Hardware Ranch WMA",
+    "author": "Greg Rakozy",
+    "url": "img/6.jpg"
+  },
+  {
+    "title": "Corolla",
+    "author": "Mike Burke",
+    "url": "img/7.jpg"
+  },
+  {
+    "title": "Waterfall",
+    "author": "Jose Murillo",
+    "url": "img/8.jpg"
+  }
+]
